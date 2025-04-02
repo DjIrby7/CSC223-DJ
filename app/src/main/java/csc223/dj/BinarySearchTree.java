@@ -133,7 +133,6 @@ public class BinarySearchTree {
         }
         return node.value;
     }
-    
     public static void main(String[] args) {
         BinarySearchTree bst = new BinarySearchTree();
 
